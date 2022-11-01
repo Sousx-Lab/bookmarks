@@ -3,7 +3,7 @@ Websites & tools bookmarks
 
 ### CSS
 
-[Ant Design - The world's second most popular React UI framework](https://ant.design/)
+[A free visual guide to CSS](https://cssreference.io/)
 
 [The best Favicon Generator (completely free) | Favicon.io](https://favicon.io/)
 
@@ -13,17 +13,9 @@ Websites & tools bookmarks
 
 [ICONSVG - Quick customizable SVG icons for your project](https://iconsvg.xyz/)
 
-[Découvrez Flexbox avec ces 8 cas d'utilisation les plus courants](https://www.freecodecamp.org/news/learn-flexbox-common-use-cases/)
-
-[Tailblocks — Ready-to-use Tailwind CSS blocks](https://tailblocks.cc/)
-
-[Free HTML Templates - Inovatik](https://inovatik.com/index.html#portfolio)
-
 [Illustrations | unDraw](https://undraw.co/illustrations?source=korben.info)
 
 [iconmonstr - Free simple icons for your next project](https://iconmonstr.com/)
-
-[Free HTML Templates - Inovatik](https://inovatik.com/)
 
 [loading.io - Your SVG + GIF + PNG Ajax Loading Icons and Animation Generator](https://loading.io/)
 
@@ -33,13 +25,9 @@ Websites & tools bookmarks
 
 [display: flex](https://flexbox.help/)
 
-[HTML Templates For Websites And Landing Pages by Inovatik](https://inovatik.com/?utm_campaign=Marko%27s%20Newsletter&utm_medium=email&utm_source=Revue%20newsletter)
-
 [Custom Forms with No Server Code | Formspree | Formspree](https://formspree.io/html)
 
 [Type Scale - A Visual Calculator](https://type-scale.com/)
-
-[Cascade et héritage - Apprendre le développement web | MDN](https://developer.mozilla.org/fr/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance)
 
 [CSS Generators - Marko Denic - Web Developer](https://markodenic.com/css-generators/)
 
