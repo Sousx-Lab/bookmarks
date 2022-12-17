@@ -300,3 +300,5 @@ Websites & tools bookmarks
 [Hoppscotch • Open source API development ecosystem • Hoppscotch](https://hoppscotch.io/)
 
 [Carbon | Create and share beautiful images of your source code](https://carbon.now.sh/)
+
+[Total TypeScript VSCode Extension](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
