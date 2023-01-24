@@ -304,3 +304,4 @@ Websites & tools bookmarks
 [Total TypeScript VSCode Extension](https://marketplace.visualstudio.com/items?itemName=mattpocock.ts-error-translator)
 
 [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
+[Penpot - Design Freedom for Teams](https://penpot.app/)
