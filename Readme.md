@@ -32,7 +32,6 @@ Websites & tools bookmarks
 [CSS Generators - Marko Denic - Web Developer](https://markodenic.com/css-generators/)
 
 [Box Shadow CSS Generator](https://cssgenerator.org/box-shadow-css-generator.html)
-[CodeGPT vscode](https://github.com/davila7/code-gpt-docs)
 
 [CSS Tips - Marko Denic - Web Developer](https://markodenic.com/css-tips/)
 
@@ -307,3 +306,5 @@ Websites & tools bookmarks
 [Super Useful CSS Resources](https://dev.to/lissy93/super-useful-css-resources-1ba3)
 
 [Penpot - Design Freedom for Teams](https://penpot.app/)
+
+[CodeGPT vscode](https://github.com/davila7/code-gpt-docs)
