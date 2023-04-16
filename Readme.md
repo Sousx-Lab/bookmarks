@@ -309,4 +309,4 @@ Websites & tools bookmarks
 
 [CodeGPT vscode](https://github.com/davila7/code-gpt-docs)
 
-[Map frop Array / Object](https://www.hackinbits.com/articles/js/how-to-create-a-javascript-map-from-an-array-or-an-object-and-vice-versa---map-part-3)
+[Map from Array / Object](https://www.hackinbits.com/articles/js/how-to-create-a-javascript-map-from-an-array-or-an-object-and-vice-versa---map-part-3)
