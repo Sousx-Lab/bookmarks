@@ -312,3 +312,5 @@ Websites & tools bookmarks
 [Map from Array / Object](https://www.hackinbits.com/articles/js/how-to-create-a-javascript-map-from-an-array-or-an-object-and-vice-versa---map-part-3)
 
 [Generate Google Dorks with AI](https://www.dorkgpt.com/)
+
+[Generate client with appropriate type-signatures](https://github.com/anymaniax/orval)
