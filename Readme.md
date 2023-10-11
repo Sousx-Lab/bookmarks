@@ -314,3 +314,5 @@ Websites & tools bookmarks
 [Generate Google Dorks with AI](https://www.dorkgpt.com/)
 
 [Generate client with appropriate type-signatures](https://github.com/anymaniax/orval)
+
+[Doodle ipsum](https://doodleipsum.com/)
