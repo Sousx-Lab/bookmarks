@@ -316,3 +316,5 @@ Websites & tools bookmarks
 [Generate client with appropriate type-signatures](https://github.com/anymaniax/orval)
 
 [Doodle ipsum](https://doodleipsum.com/)
+
+[Slidev](https://github.com/slidevjs/slidev)
